@@ -1,0 +1,36 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.card {
+  margin-bottom: 0.5rem;
+}
+.card:hover {
+  border: 4px solid #fff;
+  margin-bottom: 0.25rem;
+}
+.card-block {
+  margin: 1rem;
+}
+.col-sm-4 {
+  padding-left: 3px;
+  padding-right: 3px;
+}
+.bg-dark {
+  background-color: #000 !important;
+}
+
+@media(min-width: 576px) and (max-width: 767px) {
+  .card-block {
+    font-size: 12px;
+  }
+  .card-block .btn {
+    font-size: .75rem;
+  }
+  .card-block h4 {
+    font-size: 1.25rem;
+  }
+}
