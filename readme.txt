@@ -25,7 +25,7 @@ Open new terminal tab
 
 Start the server
 
-npm server.js
+node server.js
 
 Run the project
 1. Open a browser
